@@ -4,6 +4,9 @@ This project simulates a home service robot picking up an object at a pickup loc
 #### Project Video
 https://youtu.be/ES9FmUxZa_A
 
+#### Navigation Process
+![Overview](Results/Images/Navigation.png "ALT")
+
 #### Main work
 - Build Gazebo world
 - Deploy turtlebot
